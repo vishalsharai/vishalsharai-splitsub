@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vishalsharai-splitsub
-- 👀 I’m interested in server side development
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently working on creating NodeJS backend applications
 - 📫 Contact: vishalsharai@gmail.com
 
 <!---
