@@ -9,4 +9,4 @@ You can click the Preview link to take a look at your changes.
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=vishalsharai-splitsub&theme=node" alt="ACE" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=vishalsharai-splitsub&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="ACE" align="center" />
+<img src="https://github-readme-stats.vercel.app/api?username=vishalsharai-splitsub&show_icons=true&theme=node&count_private=true&include_all_commits=true" alt="ACE" align="center" />
